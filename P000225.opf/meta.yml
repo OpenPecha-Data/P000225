@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000225
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །སྡོམ་པ་གསུམ་གྱི་རྒྱན་ཅེས་བྱ་བའི་རྒྱ་ཆེར་འགྲེལ་ལས་ལེའུ་དང་པོ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ་།
-  sku: KS-PK-14
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: KS-PK-14
 web_metadata:
   title:
     en: An Extensive Commentary on the Ornament for the Three Sets of Vows:Chapter
